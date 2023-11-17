@@ -10,4 +10,5 @@ algoritmos de compressão (Huffman e outro). Os arquivos de vídeo estão locali
 |RA|Nome|
 |:--:|:--:|
 |11201812367|Karine da Silva Sobrinho|
-11039116 | Bruno Valem Aranha|
+|11039116 | Bruno Valem Aranha|
+|11201921346| Ana Paula Silvestrin Ferreira |
